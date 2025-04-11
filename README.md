@@ -21,9 +21,7 @@ Hyperparameters that were chosen for optimisation were the kernel type, the regu
 
 
 ## RESULTS
-A summary of your results and what you can learn from your model 
-
-The model's performance is as follows:
+The model's best performance is with default settings and performance as follows:
 
 Accuracy: 0.6581892166836215
 Recall: 0.255
