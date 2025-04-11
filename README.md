@@ -15,7 +15,6 @@ The dataset that I used was uploaded to Kaggle by a user named Aditya Kadiwal
 The model used in this project is a Support Vector Machine. It was chosen because it gave marginally better performance than other machine learning models.
 
 ## HYPERPARAMETER OPTIMSATION
-Description of which hyperparameters you have and how you chose to optimise them. 
 Although the default hyperparameters gave slightly superior performance, I also carried out hyperparameter optimisation using Grid Search and Bayesian Optimisation as a comparison.
 Hyperparameters that were chosen for optimisation were the kernel type, the regularization parameter (C) and the kernel coefficient for the Radial Basis Function (RBF) kernel (gamma).
 
